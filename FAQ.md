@@ -1,5 +1,5 @@
-# ADXXXXX-Template よくある質問
-
+# adskb42 よくある質問
+<!--
 ## Q.XXXとはなんですか？
 
 ### A.YYYです。結論がここにドカンと　見出し\#行で上下1行空けるのはMarkdownの書式
@@ -20,3 +20,4 @@ ad minim veniam, quis nostrud exercitation
 ### A.申し訳ありませんが対応しておりません。  
 
 ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+-->
