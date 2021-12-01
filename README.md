@@ -52,7 +52,7 @@ exp.
 
 ## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 //コメントアウト終了-->
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [ファームウェア](https://github.com/bit-trade-one/adskb42/tree/master/Firmware)
 
 ### [ファームウェア書き込み手順(外部サイト)](https://bit-trade-one.co.jp/selfmadekb/softwaremanual/)
 
