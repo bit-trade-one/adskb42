@@ -1,7 +1,5 @@
 # adskb42 56キー BTOセルフメイドキーボードキット Ergo42
 
-## ここに見出し
-
 ![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/selfmadekb/wp-content/uploads/sites/6/2019/04/2_ADSKB42-%E8%A3%BD%E5%93%81%E3%83%88%E3%83%83%E3%83%972.png)
 
 自作キーボードコミュニティで圧倒的支持を受ける4×7 ortholinear スプリットキーボードベースモデル。  
