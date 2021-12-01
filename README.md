@@ -46,7 +46,7 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 //コメントアウト終了-->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/selfmadekb/adskb42/) 
 <!-- //コメントアウト開始
 ## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
